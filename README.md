@@ -23,15 +23,15 @@ A responsive website for **Ntuli Accountants & Associates** that mirrors the APE
 
 | Login (email and Google SSO) | Client dashboard | Service requests |
 |---|---|---|
-| ![Login](docs/screenshots/web-login.png) | ![Client dashboard](docs/screenshots/web-client-dashboard.png) | ![Service requests](docs/screenshots/web-service-requests.png) |
+| ![Login](web-login.png) | ![Client dashboard](web-client-dashboard.png) | ![Service requests](web-service-requests.png) |
 
 | Documents | Messages | Notifications |
 |---|---|---|
-| ![Documents](docs/screenshots/web-documents.png) | ![Messages](docs/screenshots/web-messages.png) | ![Notifications](docs/screenshots/web-notifications.png) |
+| ![Documents](web-documents.png) | ![Messages](web-messages.png) | ![Notifications](web-notifications.png) |
 
 | Staff dashboard | Reports | Admin control panel |
 |---|---|---|
-| ![Staff dashboard](docs/screenshots/web-staff-dashboard.png) | ![Reports](docs/screenshots/web-reports.png) | ![Admin panel](docs/screenshots/web-admin-panel.png) |
+| ![Staff dashboard](web-staff-dashboard.png) | ![Reports](web-reports.png) | ![Admin panel](web-admin-panel.png) |
 
 ---
 
